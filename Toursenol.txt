@@ -8,3 +8,6 @@ npm install colors
 - tweetHour : completer les specifications (pas d'optionnel, "\ " pour le username)
 - top10TweetAuthor : fonctionne
 - top10Hashtag : fonctionne
+- hashtagReference : fonctionne
+- hashtagPeriod : fonctionne
+- AuthorActivity : fonctionne
